@@ -12,7 +12,7 @@ Write configuration as code recipes in puppet to provision a new web server and 
 
 Expected output
 ---------------
-.puppet scripts that we can use to deploy hello-world.php
+- puppet scripts that we can use to deploy hello-world.php
 
 To get this application working visit
 ---------------
