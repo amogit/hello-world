@@ -14,7 +14,7 @@ Expected output
 ---------------
 - puppet scripts that we can use to deploy hello-world.php
 
-To get this application working visit
+To get this application 
 ---------------
 
       git clone git://github.com/amogit/hello-world.git
